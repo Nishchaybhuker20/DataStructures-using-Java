@@ -7,5 +7,15 @@ public class Strings{
         String emailAddress = firstName+LastName+"@gmail.com";
 
         System.out.println(emailAddress);
+
+        for(int i = 0; i<emailAddress - Strings.main(String[]){
+        System.out.println(emailAddress.charAt(i));
     }
+
+    if(firstName.compareTo(LastName) == 0){
+        System.out.println("Strings are equal");
+    }else{
+        System.out.println("Strings are not equal");
+    }
+}
 }
