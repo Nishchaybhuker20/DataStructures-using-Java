@@ -6,7 +6,8 @@
 
 ## Before contributing
 
-Welcome to [Frontend-Web-Development](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)! Before sending your pull requests, make sure that you __read the whole guidelines__.
+Welcome to [Frontend-Web-Development](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)! Before sending your pull requests, make sure that you [__read the whole guidelines__]![github](https://user-images.githubusercontent.com/76655825/194733365-c7b96ca3-ccd9-454f-b46d-911171686444.png)
+.
 
 ## Contributing
 
